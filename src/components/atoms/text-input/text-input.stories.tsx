@@ -11,5 +11,5 @@ const Template = args => <TextInput {...args} />
 
 export const Primary = Template.bind({})
 Primary.args = {
-  placeholder: "Search anything...",
+  placeholder: "Lo que estoy buscando es...",
 }
